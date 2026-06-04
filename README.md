@@ -26,18 +26,3 @@ Bu projenin mühendislik odak noktası, bellek yönetiminin ve gösterici (point
 * **Görsel Geri Bildirimler:** İşlem durumlarına göre renk kodlu (success, danger, warning) statü rozetleri (badges).
 * **Asenkron İşlemler:** Veritabanı okuma/yazma işlemlerinin UI thread'ini dondurmaması için `Task<T>` yapısıyla kurgulanmış arka plan thread yönetimi.
 
-## 💻 Ekran Görüntüleri
-
-| Yönetici Paneli (Dashboard) | Veri Yönetimi ve Önkoşullar |
-| :---: | :---: |
-| ![Dashboard](docs/images/dashboard.png) <br> *Dinamik Timeline, LineChart ve MaxHeap ile Top Öğrenci Listesi* | ![Queue](docs/images/queue.png) <br> *BST tabanlı hızlı arama ve durum etiketleri* |
-
-*(Not: Ekran görüntülerini repo'ya ekledikten sonra yukarıdaki dosya yollarını güncelleyiniz.)*
-
-## 🛠️ Kurulum ve Çalıştırma
-
-Projeyi yerel ortamınızda test etmek için:
-
-1. Repoyu bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/IdilSEN34/University-Management-System.git](https://github.com/IdilSEN34/University-Management-System.git)
